@@ -6,7 +6,7 @@ This project uses a linear regression model to predict bike rental counts based 
 
 ## 📁 Dataset
 
-We use the `day.csv` dataset (commonly from the UCI Bike Sharing Dataset), which contains daily records of bike rentals along with weather and seasonal information.
+Uses the `day.csv` dataset (commonly from the UCI Bike Sharing Dataset), which contains daily records of bike rentals along with weather and seasonal information.
 
 ### Example Features:
 - **temp**: Normalized temperature in Celsius
